@@ -19,9 +19,5 @@
 - REACT_APP_appId=
 
 
-## Deploy :
-
-https://master--blog-app-milistone-project.netlify.app/
-
 
 
